@@ -80,7 +80,7 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("REMAINING ARROWS: " + numberofArrows, 200, 100);
+  text("REMAINING ARROWS: " + numberofArrows, 300, 100);
 }
 
 function keyPressed() {
